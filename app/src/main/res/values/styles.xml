@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="LargePurpleFont">
+    <item name="android:textColor">#C80000</item>
+    <item name="android:textSize">40sp</item>
+  </style>
+
+  <style name="LargeRedFont">Large Red Font</style>
+</resources>
